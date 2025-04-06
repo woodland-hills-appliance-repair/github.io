@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://woodland-hills-appliance-repair.github.io/sitemap.xml
